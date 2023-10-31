@@ -1,7 +1,7 @@
 
 import './App.css';
-import Navbar from './index.js';
-import Card from './index.js';
+//import Navbar from './index.js';
+//import Card from './index.js';
 
 function App() {
     return (
