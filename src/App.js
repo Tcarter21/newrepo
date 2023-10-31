@@ -8,17 +8,17 @@ function App() {
         <div className="App">
             <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
                 <div class="container-fluid">
-                    <p>Navbar</p>
+                    <h1>Navbar</h1>
                     <div class="collapse navbar-collapse" id="mynavbar">
                         <ul class="navbar-nav me-auto">
                             <li class="nav-item">
-                                <p>Home</p>
+                                <h1>Home</h1>
                             </li>
                             <li class="nav-item">
-                                <p>About</p>
+                                <h1>About</h1>
                             </li>
                             <li class="nav-item">
-                                <p>Contact</p>
+                                <h1>Contact</h1>
                             </li>
                         </ul>
                         <form class="d-flex">
