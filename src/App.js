@@ -3,6 +3,7 @@ import './App.css';
 import Navbar from './Navbar.js';
 import Card from './Card.js';
 import React from "react";
+import "bootstrap/dist/css/bootstrap.css";
 
 function App() {
     return (
