@@ -7,14 +7,14 @@ function Navbar() {
                 <span className="navbar-brand text-light">Navbar</span>
                 <div className="collapse navbar-collapse" id="mynavbar">
                     <ul className="navbar-nav me-auto">
-                        <li className="nav-item text-light">
-                            Home
+                        <li className="nav-item">
+                            <a className="text-light nav-link" href="http://localhost:3000/">Home</a>
                         </li>
-                        <li className="nav-item text-light">
-                            About
+                        <li className="nav-item">
+                            <a className="text-light nav-link" href="http://localhost:3000/Card">Card</a>
                         </li>
-                        <li className="nav-item text-light">
-                            Contact
+                        <li className="nav-item">
+                            <a className="text-light nav-link" href="http://localhost:3000/Contact">Contact</a>
                         </li>
                     </ul>
                     <form className="d-flex">
