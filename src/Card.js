@@ -3,8 +3,7 @@ import './App.css';
 function Card() {
     return (
         <div className="row">
-
-            <div className="col-sm-4">
+            <div className="col-4">
                 <div className="card bg-primary text-light">
                     <div className="card-body">
                         <h3 className="card-title">Card 01</h3>
@@ -13,7 +12,7 @@ function Card() {
                 </div>
             </div>
 
-                <div className="col-sm-4">
+                <div className="col-4">
                     <div className="card bg-danger text-light">
                         <div className="card-body">
                             <h3 className="card-title">Card 02</h3>
@@ -22,7 +21,7 @@ function Card() {
                     </div>
                 </div>
 
-                <div className="col-sm-4">
+                <div className="col-4">
                     <div className="card bg-success text-light">
                         <div className="card-body">
                             <h3 className="card-title">Card 03</h3>
